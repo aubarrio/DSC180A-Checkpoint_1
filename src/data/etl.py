@@ -45,7 +45,7 @@ def read_twitch_data(fp):
                     edges.extend(f.read().splitlines())
             elif 'features.json' in file:
                 with open(os.path.join(ro, file),'r') as json_data:
-                    j__data = json.load(json_data)
+                    j_data = json.load(json_data)
                     d = pd.DataFrame.from_dict(j_data, orient='index')
                     d['index'] = d.index
                     d['index'] = d['index'].astype(int)
