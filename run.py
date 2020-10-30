@@ -18,7 +18,9 @@ if __name__ == '__main__':
     targets = sys.argv[1:]
     main()
 
+    #examples: python run.py data/raw/facebook facebook
+    #          python run.py data/raw/twitch twitch
+    #          python run.py data/raw/cora cora
 
-# python run.py data/raw/twitch/ENGB/musae_ENGB_features.json data/raw/twitch/ENGB/musae_ENGB_edges.csv
-
-#make sure to change to snap instead of cora
+    #The following command would run the default cora dataset
+    #          python run.py
