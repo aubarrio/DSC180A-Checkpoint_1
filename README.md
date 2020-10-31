@@ -24,5 +24,5 @@ would default to using the cora dataset gathering its params from the config/par
 
 
 ### Responsibilities
-* Austin Le - Added some functionaliaty to ingestion pipeline, Crafted Introduction
+* Austin Le - Added some functionaliaty to data ingestion, Crafted Introduction
 * Aurelio Barrios
