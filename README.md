@@ -21,3 +21,8 @@ Examples for the other two datasets are as follows
 Simply running the command
               `python run.py`
 would default to using the cora dataset gathering its params from the config/params.json file
+
+
+### Responsibilities
+* Austin Le - Added some functionaliaty to ingestion pipeline, Crafted Introduction
+* Aurelio Barrios
