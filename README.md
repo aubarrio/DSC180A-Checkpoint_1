@@ -25,4 +25,4 @@ would default to using the cora dataset gathering its params from the config/par
 
 ### Responsibilities
 * Austin Le - Added some functionaliaty to data ingestion, Crafted Introduction
-* Aurelio Barrios
+* Aurelio Barrios - Implemented 2 layer GCN and data processing, helped with introduction
