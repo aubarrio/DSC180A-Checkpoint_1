@@ -9,7 +9,7 @@ This file reads in a dataset and runs a 2 Layer GCN on the dataset.
 * a facebook dataset also found on SNAP
 
 ## In order to run run.py through termal you must use: 
-* python run.py <file path> source
+* `<python run.py <file path> source>`
 
 If you were to run this on the twitch dataset then you would run the command
 * python run.py data/raw/twitch twitch
